@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://hotdauihotcuomthanhnhung.blogspot.com/' target='_blank'><img src='https://4.bp.blogspot.com/-xK-SXg0j7lY/Wwa0T90ZqyI/AAAAAAAAAJM/w-AryAWZIpsBHKWpgE6Ydu4l6gw7YMZkQCLcBGAs/s400/logo1.jpg' width='500px'/><br/>Chuyen thiết kế, gia công sản phẩm hột đá, hột cườm thời trang</a>.<br> Hotline: 0906326239 - 01228688889. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://hotdauihotcuomthanhnhung.blogspot.com/' target='_blank'><img src='https://4.bp.blogspot.com/-xK-SXg0j7lY/Wwa0T90ZqyI/AAAAAAAAAJM/w-AryAWZIpsBHKWpgE6Ydu4l6gw7YMZkQCLcBGAs/s400/logo1.jpg' width='500px'/><br/>Chuyên thiết kế, gia công sản phẩm hột đá, hột cườm thời trang</a>.<br> Hotline: 0906326239 - 01228688889. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
